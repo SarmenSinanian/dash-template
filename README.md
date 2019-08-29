@@ -107,7 +107,7 @@ Then in your browser, go to http://localhost:8050/
 
 Ctrl+C quits the app.
 
-### See installed packages
+### See installed packages (cat Pipfile)
 
 `Pipfile` is a plain text file that lists the packages installed in the virtual environment. If you open the `Pipfile` file in any text editor software, you can view its contents. It will look something like this:
 
